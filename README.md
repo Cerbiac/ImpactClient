@@ -5,33 +5,35 @@ Here, you will be able to submit issues that prevent the client from performing 
 
 ## Download
 
-You can [download Impact][download] by visiting the Impact Website.
+You can download Impact by visiting the [Impact Website][download].
 
 ## Help and Support
 
-If you need help using Impact, you should instead ask for it on the [discord] server. Use the `#help` channel so that you don't clutter up `#general` with support questions. Also make sure to check `#announcements`, pinned messages and use the search tool to see if your question has already been answered.
+If you need help using Impact, you should instead ask for it on the [discord] server. Use the [`#help`](https://discord.gg/V472wkN) channel so that you don't clutter up [`#general`](https://discord.gg/QtPcEYX) with support questions. Also make sure to check [`#announcements`](https://discord.gg/Dc2p68q), pinned messages and use the search tool to see if your question has already been answered.
 
 ## Bugs
 
-Please report any bugs you find [here][issues]. Try to be as descriptive as possible and make sure to check if the bug has already been reported _before_ reporting it youself. Please only report one bug per issue - if you have encountered multiple issues, report multiple bugs as seperate    issues.
+Please report any bugs you find [here][issues]. Try to be as descriptive as possible and make sure to check if the bug has already been reported _before_ reporting it youself. _Please_ only report one bug per issue - if you have encountered multiple issues, report multiple bugs as seperate issues.
 
-## Feature Requests
+## Suggestions
 
-New features should also be reported as [issues]. Please try to describe the feature you are suggesting in as much detail as possible and explain _why_ it would be useful. As explained above, please first check the feature hasn't already been requested and make sure your issue only covers one feature. If you have multiple ideas, open seperate issues.
+Suggestions should also be reported as [issues]. Please try to describe the feature you are suggesting in as much detail as possible and explain _why_ it would be useful. As explained above, please first check the feature hasn't already been requested and make sure your issue only covers one feature. If you have multiple ideas, open seperate issues.
 
 ## Credit
 
-   Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on top of [ClientAPI] and supports [Baritone] which is developed by [leijurv]
+   Impact is developed by [ZeroMemes], [leijurv] and [LeafHacker]. It is built on top of [ClientAPI] and supports [Baritone] developed by [leijurv]
 
 ### Impact Discord Staff and Members
+#### Developers
+* [ZeroMemes]
+* [leijurv]
+* [LeafHacker]
 
-#### Past Developers
-
+##### Former Developers
 * WhispersHF
 * Kato
 
 #### Moderators
-
 * [Scandal]
 * [0x22]          
 * Astro           
@@ -40,7 +42,6 @@ New features should also be reported as [issues]. Please try to describe the fea
 
 
 #### Support
-
 * [Peanut]
 * [MagicStar]      
 * pepsi boy        
@@ -49,6 +50,7 @@ New features should also be reported as [issues]. Please try to describe the fea
 * xpielordx        
 * [SuperOP535]
 * Olibols (Feathers)
+* [Cerbiac Kerberos#7148][Cerbiac]
 <!--
 * Scæling
 * QueefHacker
@@ -79,10 +81,12 @@ Long term member on discord, active member and contributor
 [Baritone]: https://github.com/cabaletta/baritone
 
 <!-- Users -->
+<!-- Developers -->
 [ZeroMemes]: https://github.com/ZeroMemes
 [LeafHacker]: https://github.com/LeafHacker
 [leijurv]: https://github.com/leijurv
 
+<!-- Miscellaneous-->
 [Peanut]: https://github.com/zPeanut
 [MagicStar]: https://github.com/MagicStarIsntGay
 [vitor is]: https://github.com/VitorISs
@@ -91,3 +95,4 @@ Long term member on discord, active member and contributor
 [0x22]: https://github.com/0-x-2-2
 [SuperOP535]: https://github.com/SuperOP535
 [Scandal]: https://github.com/ScanmanTM
+[Cerbiac]: https://github.com/Cerbiac
